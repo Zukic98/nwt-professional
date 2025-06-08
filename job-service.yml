@@ -1,1 +1,3 @@
 message: This is job-service
+
+defer-datasource-initialization: true
